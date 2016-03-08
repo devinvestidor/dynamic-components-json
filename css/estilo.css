@@ -1,0 +1,32 @@
+form{
+	margin-top: 15px;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+}
+		
+		
+input{
+	margin-top: 10px;
+	margin-button: 10px;	
+}		
+	
+img.alignCenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto
+}
+
+header {
+	background-color: rgb(235,239,242);	
+	text-align: right;
+}	
+
+body {
+	background-color: rgb(250,250,250);							
+}		
+
+footer {
+	background-color: rgb(235,239,242);	
+	text-align: center;
+}	
