@@ -1,4 +1,4 @@
-# dynamic-html-json
+# dynamic-components-json
 Este projeto foi desenvolvido no curso JavaScript - Univali. 
 
 O HTML é carregado de um arquivo JSON. Dependendo do tipo de pessoa que é selecionado na tela inicial é atribuído ou não a obrigação para determinado campo. 
